@@ -1,0 +1,35 @@
+About
+Projects
+Fuyuko
+Matsui
+ふゆこ松井
+Web Application Developer
+
+About
+HTML / CSS / JavaScript / React JS / Redux / Python / Django / ExpressJS /AWS (Basics) / Docker (Basics)
+ここに自己紹介を書きます。ここに自己紹介を書きます。ここに自己紹介を書きます。ここに自己紹介を書きます。ここに自己紹介を書きます。ここに自己紹介を書きます。
+support@techis.io
+
+Projects
+Twitterクローン
+Twitterの複製アプリです。ツイートを投稿できます。
+PHP / MySQLを利用しています。
+テストアカウント
+Email : Test@gmail.com
+Pass : 123456
+WebSite
+GitHub
+Netflixクローン
+Netflixの複製サービスです。
+Laravel / MySQLを利用しています。
+テストアカウント
+Email : Test@gmail.com
+Pass : 123456
+WebSite
+GitHub
+
+Contact
++12 345 6789
+Support@techis.com
+
+© Fuyuko Matsui All rights reserved
